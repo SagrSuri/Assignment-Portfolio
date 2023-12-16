@@ -90,3 +90,8 @@ div p{
 .button_space{
     padding-top: 40px;
 }
+.nav-l a {
+    text-decoration: none;
+    color: rgb(15, 34, 138);
+    font-weight: 400;
+}
